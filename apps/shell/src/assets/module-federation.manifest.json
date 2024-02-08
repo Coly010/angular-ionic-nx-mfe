@@ -1,0 +1,4 @@
+{
+  "remote1": "/remote1/remoteEntry.mjs",
+  "remote2": "/remote2/remoteEntry.mjs"
+}
