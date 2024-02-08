@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'myapp',
+  appId: 'app.nx.shell',
   appName: 'shell',
-  webDir: 'dist/apps/shell',
+  webDir: '../../dist/apps/shell',
   bundledWebRuntime: false,
   server: {
     androidScheme: 'https'
